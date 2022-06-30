@@ -11,5 +11,7 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+        //pengecualian untuk console.log() dengan eslint
+        "no-console": "off"
     }
 }
